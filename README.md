@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sigott
-- 👀 I’m interested in machine learning, crypto, data visualization, automated bot traiding
+- 👀 I’m interested in machine learning, crypto, data visualization, automated bot trading
 - 🌱 I’m currently learning python, machine learning, crypto
 - 💞️ I’m looking to collaborate on anything interesting that I could that would allow me to learn and help out.
 - 📫 How to reach me srgott@gmail.com
